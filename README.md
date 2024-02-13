@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project was built primarily using the standard configurations from the next-intl-docs and used to gain knowledge and understanding of now next handles localization.
+
 ## Getting Started
 
 First, run the development server:
